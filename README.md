@@ -34,7 +34,7 @@ Voraussetzung: Android 7.0 (API 24) oder neuer.
 
 Voraussetzungen: [Android Studio](https://developer.android.com/studio) (aktuelle stabile Version) und ein Android-Handy mit aktiviertem USB-Debugging.
 
-1. Repository klonen: `git clone <REPO-URL>`
+1. Repository klonen: `git clone(https://github.com/Putskev/kana-widget)`
 2. In Android Studio **Open** wählen, den Projektordner öffnen und den Gradle-Sync abwarten.
 3. Handy per USB anschließen (Einstellungen › Über das Telefon › 7× auf „Build-Nummer“ tippen, dann unter Entwickleroptionen „USB-Debugging“ aktivieren).
 4. Oben in Android Studio das Handy als Gerät wählen und auf **Run** klicken.
