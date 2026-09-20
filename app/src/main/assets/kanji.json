@@ -1,0 +1,1903 @@
+{
+ "version": 1,
+ "language": "de",
+ "words": [
+  {
+   "kanji": "私",
+   "kana": "わたし",
+   "romaji": "watashi",
+   "de": "ich",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "人",
+   "kana": "ひと",
+   "romaji": "hito",
+   "de": "Mensch",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "友達",
+   "kana": "ともだち",
+   "romaji": "tomodachi",
+   "de": "Freund",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "先生",
+   "kana": "せんせい",
+   "romaji": "sensei",
+   "de": "Lehrer",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "学生",
+   "kana": "がくせい",
+   "romaji": "gakusei",
+   "de": "Student",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "子供",
+   "kana": "こども",
+   "romaji": "kodomo",
+   "de": "Kind",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "男",
+   "kana": "おとこ",
+   "romaji": "otoko",
+   "de": "Mann",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "女",
+   "kana": "おんな",
+   "romaji": "onna",
+   "de": "Frau",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "大人",
+   "kana": "おとな",
+   "romaji": "otona",
+   "de": "Erwachsener",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "家族",
+   "kana": "かぞく",
+   "romaji": "kazoku",
+   "de": "Familie",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "父",
+   "kana": "ちち",
+   "romaji": "chichi",
+   "de": "Vater (eigener)",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "母",
+   "kana": "はは",
+   "romaji": "haha",
+   "de": "Mutter (eigene)",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "兄",
+   "kana": "あに",
+   "romaji": "ani",
+   "de": "älterer Bruder",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "姉",
+   "kana": "あね",
+   "romaji": "ane",
+   "de": "ältere Schwester",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "弟",
+   "kana": "おとうと",
+   "romaji": "otōto",
+   "de": "jüngerer Bruder",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "妹",
+   "kana": "いもうと",
+   "romaji": "imōto",
+   "de": "jüngere Schwester",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "彼",
+   "kana": "かれ",
+   "romaji": "kare",
+   "de": "er",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "彼女",
+   "kana": "かのじょ",
+   "romaji": "kanojo",
+   "de": "sie; Freundin",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "名前",
+   "kana": "なまえ",
+   "romaji": "namae",
+   "de": "Name",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "自分",
+   "kana": "じぶん",
+   "romaji": "jibun",
+   "de": "selbst",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "外国人",
+   "kana": "がいこくじん",
+   "romaji": "gaikokujin",
+   "de": "Ausländer",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "何",
+   "kana": "なに",
+   "romaji": "nani",
+   "de": "was",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "誰",
+   "kana": "だれ",
+   "romaji": "dare",
+   "de": "wer",
+   "cat": "Menschen"
+  },
+  {
+   "kanji": "今日",
+   "kana": "きょう",
+   "romaji": "kyō",
+   "de": "heute",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "明日",
+   "kana": "あした",
+   "romaji": "ashita",
+   "de": "morgen",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "昨日",
+   "kana": "きのう",
+   "romaji": "kinō",
+   "de": "gestern",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "今",
+   "kana": "いま",
+   "romaji": "ima",
+   "de": "jetzt",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "朝",
+   "kana": "あさ",
+   "romaji": "asa",
+   "de": "Morgen",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "昼",
+   "kana": "ひる",
+   "romaji": "hiru",
+   "de": "Mittag",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "夜",
+   "kana": "よる",
+   "romaji": "yoru",
+   "de": "Nacht; Abend",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "毎日",
+   "kana": "まいにち",
+   "romaji": "mainichi",
+   "de": "jeden Tag",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "毎朝",
+   "kana": "まいあさ",
+   "romaji": "maiasa",
+   "de": "jeden Morgen",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "時間",
+   "kana": "じかん",
+   "romaji": "jikan",
+   "de": "Zeit",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "午前",
+   "kana": "ごぜん",
+   "romaji": "gozen",
+   "de": "vormittags",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "午後",
+   "kana": "ごご",
+   "romaji": "gogo",
+   "de": "nachmittags",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "週末",
+   "kana": "しゅうまつ",
+   "romaji": "shūmatsu",
+   "de": "Wochenende",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "今週",
+   "kana": "こんしゅう",
+   "romaji": "konshū",
+   "de": "diese Woche",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "今年",
+   "kana": "ことし",
+   "romaji": "kotoshi",
+   "de": "dieses Jahr",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "来年",
+   "kana": "らいねん",
+   "romaji": "rainen",
+   "de": "nächstes Jahr",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "年",
+   "kana": "とし",
+   "romaji": "toshi",
+   "de": "Jahr",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "月",
+   "kana": "つき",
+   "romaji": "tsuki",
+   "de": "Mond; Monat",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "日",
+   "kana": "ひ",
+   "romaji": "hi",
+   "de": "Tag; Sonne",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "春",
+   "kana": "はる",
+   "romaji": "haru",
+   "de": "Frühling",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "夏",
+   "kana": "なつ",
+   "romaji": "natsu",
+   "de": "Sommer",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "秋",
+   "kana": "あき",
+   "romaji": "aki",
+   "de": "Herbst",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "冬",
+   "kana": "ふゆ",
+   "romaji": "fuyu",
+   "de": "Winter",
+   "cat": "Zeit"
+  },
+  {
+   "kanji": "水",
+   "kana": "みず",
+   "romaji": "mizu",
+   "de": "Wasser",
+   "cat": "Natur"
+  },
+  {
+   "kanji": "火",
+   "kana": "ひ",
+   "romaji": "hi",
+   "de": "Feuer",
+   "cat": "Natur"
+  },
+  {
+   "kanji": "木",
+   "kana": "き",
+   "romaji": "ki",
+   "de": "Baum; Holz",
+   "cat": "Natur"
+  },
+  {
+   "kanji": "山",
+   "kana": "やま",
+   "romaji": "yama",
+   "de": "Berg",
+   "cat": "Natur"
+  },
+  {
+   "kanji": "川",
+   "kana": "かわ",
+   "romaji": "kawa",
+   "de": "Fluss",
+   "cat": "Natur"
+  },
+  {
+   "kanji": "海",
+   "kana": "うみ",
+   "romaji": "umi",
+   "de": "Meer",
+   "cat": "Natur"
+  },
+  {
+   "kanji": "空",
+   "kana": "そら",
+   "romaji": "sora",
+   "de": "Himmel",
+   "cat": "Natur"
+  },
+  {
+   "kanji": "雨",
+   "kana": "あめ",
+   "romaji": "ame",
+   "de": "Regen",
+   "cat": "Natur"
+  },
+  {
+   "kanji": "雪",
+   "kana": "ゆき",
+   "romaji": "yuki",
+   "de": "Schnee",
+   "cat": "Natur"
+  },
+  {
+   "kanji": "風",
+   "kana": "かぜ",
+   "romaji": "kaze",
+   "de": "Wind",
+   "cat": "Natur"
+  },
+  {
+   "kanji": "天気",
+   "kana": "てんき",
+   "romaji": "tenki",
+   "de": "Wetter",
+   "cat": "Natur"
+  },
+  {
+   "kanji": "花",
+   "kana": "はな",
+   "romaji": "hana",
+   "de": "Blume",
+   "cat": "Natur"
+  },
+  {
+   "kanji": "森",
+   "kana": "もり",
+   "romaji": "mori",
+   "de": "Wald",
+   "cat": "Natur"
+  },
+  {
+   "kanji": "星",
+   "kana": "ほし",
+   "romaji": "hoshi",
+   "de": "Stern",
+   "cat": "Natur"
+  },
+  {
+   "kanji": "石",
+   "kana": "いし",
+   "romaji": "ishi",
+   "de": "Stein",
+   "cat": "Natur"
+  },
+  {
+   "kanji": "犬",
+   "kana": "いぬ",
+   "romaji": "inu",
+   "de": "Hund",
+   "cat": "Natur"
+  },
+  {
+   "kanji": "猫",
+   "kana": "ねこ",
+   "romaji": "neko",
+   "de": "Katze",
+   "cat": "Natur"
+  },
+  {
+   "kanji": "魚",
+   "kana": "さかな",
+   "romaji": "sakana",
+   "de": "Fisch",
+   "cat": "Natur"
+  },
+  {
+   "kanji": "鳥",
+   "kana": "とり",
+   "romaji": "tori",
+   "de": "Vogel",
+   "cat": "Natur"
+  },
+  {
+   "kanji": "学校",
+   "kana": "がっこう",
+   "romaji": "gakkō",
+   "de": "Schule",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "大学",
+   "kana": "だいがく",
+   "romaji": "daigaku",
+   "de": "Universität",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "会社",
+   "kana": "かいしゃ",
+   "romaji": "kaisha",
+   "de": "Firma",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "駅",
+   "kana": "えき",
+   "romaji": "eki",
+   "de": "Bahnhof",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "店",
+   "kana": "みせ",
+   "romaji": "mise",
+   "de": "Geschäft",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "家",
+   "kana": "いえ",
+   "romaji": "ie",
+   "de": "Haus",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "部屋",
+   "kana": "へや",
+   "romaji": "heya",
+   "de": "Zimmer",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "病院",
+   "kana": "びょういん",
+   "romaji": "byōin",
+   "de": "Krankenhaus",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "銀行",
+   "kana": "ぎんこう",
+   "romaji": "ginkō",
+   "de": "Bank",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "図書館",
+   "kana": "としょかん",
+   "romaji": "toshokan",
+   "de": "Bibliothek",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "公園",
+   "kana": "こうえん",
+   "romaji": "kōen",
+   "de": "Park",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "空港",
+   "kana": "くうこう",
+   "romaji": "kūkō",
+   "de": "Flughafen",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "郵便局",
+   "kana": "ゆうびんきょく",
+   "romaji": "yūbinkyoku",
+   "de": "Post",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "入口",
+   "kana": "いりぐち",
+   "romaji": "iriguchi",
+   "de": "Eingang",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "出口",
+   "kana": "でぐち",
+   "romaji": "deguchi",
+   "de": "Ausgang",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "町",
+   "kana": "まち",
+   "romaji": "machi",
+   "de": "Stadt; Viertel",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "道",
+   "kana": "みち",
+   "romaji": "michi",
+   "de": "Weg; Straße",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "国",
+   "kana": "くに",
+   "romaji": "kuni",
+   "de": "Land",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "外国",
+   "kana": "がいこく",
+   "romaji": "gaikoku",
+   "de": "Ausland",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "日本",
+   "kana": "にほん",
+   "romaji": "Nihon",
+   "de": "Japan",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "東京",
+   "kana": "とうきょう",
+   "romaji": "Tōkyō",
+   "de": "Tokio",
+   "cat": "Orte"
+  },
+  {
+   "kanji": "本",
+   "kana": "ほん",
+   "romaji": "hon",
+   "de": "Buch",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "車",
+   "kana": "くるま",
+   "romaji": "kuruma",
+   "de": "Auto",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "電車",
+   "kana": "でんしゃ",
+   "romaji": "densha",
+   "de": "Zug; Bahn",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "自転車",
+   "kana": "じてんしゃ",
+   "romaji": "jitensha",
+   "de": "Fahrrad",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "切符",
+   "kana": "きっぷ",
+   "romaji": "kippu",
+   "de": "Fahrkarte",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "電話",
+   "kana": "でんわ",
+   "romaji": "denwa",
+   "de": "Telefon",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "お金",
+   "kana": "おかね",
+   "romaji": "okane",
+   "de": "Geld",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "傘",
+   "kana": "かさ",
+   "romaji": "kasa",
+   "de": "Regenschirm",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "窓",
+   "kana": "まど",
+   "romaji": "mado",
+   "de": "Fenster",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "机",
+   "kana": "つくえ",
+   "romaji": "tsukue",
+   "de": "Schreibtisch",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "椅子",
+   "kana": "いす",
+   "romaji": "isu",
+   "de": "Stuhl",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "鍵",
+   "kana": "かぎ",
+   "romaji": "kagi",
+   "de": "Schlüssel",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "鞄",
+   "kana": "かばん",
+   "romaji": "kaban",
+   "de": "Tasche",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "服",
+   "kana": "ふく",
+   "romaji": "fuku",
+   "de": "Kleidung",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "靴",
+   "kana": "くつ",
+   "romaji": "kutsu",
+   "de": "Schuhe",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "時計",
+   "kana": "とけい",
+   "romaji": "tokei",
+   "de": "Uhr",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "写真",
+   "kana": "しゃしん",
+   "romaji": "shashin",
+   "de": "Foto",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "音楽",
+   "kana": "おんがく",
+   "romaji": "ongaku",
+   "de": "Musik",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "映画",
+   "kana": "えいが",
+   "romaji": "eiga",
+   "de": "Film",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "手紙",
+   "kana": "てがみ",
+   "romaji": "tegami",
+   "de": "Brief",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "荷物",
+   "kana": "にもつ",
+   "romaji": "nimotsu",
+   "de": "Gepäck",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "辞書",
+   "kana": "じしょ",
+   "romaji": "jisho",
+   "de": "Wörterbuch",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "新聞",
+   "kana": "しんぶん",
+   "romaji": "shinbun",
+   "de": "Zeitung",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "色",
+   "kana": "いろ",
+   "romaji": "iro",
+   "de": "Farbe",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "音",
+   "kana": "おと",
+   "romaji": "oto",
+   "de": "Geräusch",
+   "cat": "Alltag"
+  },
+  {
+   "kanji": "ご飯",
+   "kana": "ごはん",
+   "romaji": "gohan",
+   "de": "Reis; Mahlzeit",
+   "cat": "Essen"
+  },
+  {
+   "kanji": "朝ご飯",
+   "kana": "あさごはん",
+   "romaji": "asagohan",
+   "de": "Frühstück",
+   "cat": "Essen"
+  },
+  {
+   "kanji": "昼ご飯",
+   "kana": "ひるごはん",
+   "romaji": "hirugohan",
+   "de": "Mittagessen",
+   "cat": "Essen"
+  },
+  {
+   "kanji": "晩ご飯",
+   "kana": "ばんごはん",
+   "romaji": "bangohan",
+   "de": "Abendessen",
+   "cat": "Essen"
+  },
+  {
+   "kanji": "食べ物",
+   "kana": "たべもの",
+   "romaji": "tabemono",
+   "de": "Essen",
+   "cat": "Essen"
+  },
+  {
+   "kanji": "飲み物",
+   "kana": "のみもの",
+   "romaji": "nomimono",
+   "de": "Getränk",
+   "cat": "Essen"
+  },
+  {
+   "kanji": "お茶",
+   "kana": "おちゃ",
+   "romaji": "ocha",
+   "de": "Tee",
+   "cat": "Essen"
+  },
+  {
+   "kanji": "牛乳",
+   "kana": "ぎゅうにゅう",
+   "romaji": "gyūnyū",
+   "de": "Milch",
+   "cat": "Essen"
+  },
+  {
+   "kanji": "酒",
+   "kana": "さけ",
+   "romaji": "sake",
+   "de": "Alkohol; Reiswein",
+   "cat": "Essen"
+  },
+  {
+   "kanji": "肉",
+   "kana": "にく",
+   "romaji": "niku",
+   "de": "Fleisch",
+   "cat": "Essen"
+  },
+  {
+   "kanji": "野菜",
+   "kana": "やさい",
+   "romaji": "yasai",
+   "de": "Gemüse",
+   "cat": "Essen"
+  },
+  {
+   "kanji": "果物",
+   "kana": "くだもの",
+   "romaji": "kudamono",
+   "de": "Obst",
+   "cat": "Essen"
+  },
+  {
+   "kanji": "卵",
+   "kana": "たまご",
+   "romaji": "tamago",
+   "de": "Ei",
+   "cat": "Essen"
+  },
+  {
+   "kanji": "塩",
+   "kana": "しお",
+   "romaji": "shio",
+   "de": "Salz",
+   "cat": "Essen"
+  },
+  {
+   "kanji": "砂糖",
+   "kana": "さとう",
+   "romaji": "satō",
+   "de": "Zucker",
+   "cat": "Essen"
+  },
+  {
+   "kanji": "目",
+   "kana": "め",
+   "romaji": "me",
+   "de": "Auge",
+   "cat": "Körper"
+  },
+  {
+   "kanji": "耳",
+   "kana": "みみ",
+   "romaji": "mimi",
+   "de": "Ohr",
+   "cat": "Körper"
+  },
+  {
+   "kanji": "口",
+   "kana": "くち",
+   "romaji": "kuchi",
+   "de": "Mund",
+   "cat": "Körper"
+  },
+  {
+   "kanji": "手",
+   "kana": "て",
+   "romaji": "te",
+   "de": "Hand",
+   "cat": "Körper"
+  },
+  {
+   "kanji": "足",
+   "kana": "あし",
+   "romaji": "ashi",
+   "de": "Fuß; Bein",
+   "cat": "Körper"
+  },
+  {
+   "kanji": "頭",
+   "kana": "あたま",
+   "romaji": "atama",
+   "de": "Kopf",
+   "cat": "Körper"
+  },
+  {
+   "kanji": "顔",
+   "kana": "かお",
+   "romaji": "kao",
+   "de": "Gesicht",
+   "cat": "Körper"
+  },
+  {
+   "kanji": "体",
+   "kana": "からだ",
+   "romaji": "karada",
+   "de": "Körper",
+   "cat": "Körper"
+  },
+  {
+   "kanji": "心",
+   "kana": "こころ",
+   "romaji": "kokoro",
+   "de": "Herz; Gefühl",
+   "cat": "Körper"
+  },
+  {
+   "kanji": "声",
+   "kana": "こえ",
+   "romaji": "koe",
+   "de": "Stimme",
+   "cat": "Körper"
+  },
+  {
+   "kanji": "行く",
+   "kana": "いく",
+   "romaji": "iku",
+   "de": "gehen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "来る",
+   "kana": "くる",
+   "romaji": "kuru",
+   "de": "kommen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "食べる",
+   "kana": "たべる",
+   "romaji": "taberu",
+   "de": "essen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "飲む",
+   "kana": "のむ",
+   "romaji": "nomu",
+   "de": "trinken",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "見る",
+   "kana": "みる",
+   "romaji": "miru",
+   "de": "sehen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "聞く",
+   "kana": "きく",
+   "romaji": "kiku",
+   "de": "hören; fragen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "話す",
+   "kana": "はなす",
+   "romaji": "hanasu",
+   "de": "sprechen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "読む",
+   "kana": "よむ",
+   "romaji": "yomu",
+   "de": "lesen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "書く",
+   "kana": "かく",
+   "romaji": "kaku",
+   "de": "schreiben",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "買う",
+   "kana": "かう",
+   "romaji": "kau",
+   "de": "kaufen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "帰る",
+   "kana": "かえる",
+   "romaji": "kaeru",
+   "de": "heimkehren",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "会う",
+   "kana": "あう",
+   "romaji": "au",
+   "de": "treffen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "待つ",
+   "kana": "まつ",
+   "romaji": "matsu",
+   "de": "warten",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "言う",
+   "kana": "いう",
+   "romaji": "iu",
+   "de": "sagen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "思う",
+   "kana": "おもう",
+   "romaji": "omou",
+   "de": "denken",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "知る",
+   "kana": "しる",
+   "romaji": "shiru",
+   "de": "wissen; kennen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "分かる",
+   "kana": "わかる",
+   "romaji": "wakaru",
+   "de": "verstehen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "使う",
+   "kana": "つかう",
+   "romaji": "tsukau",
+   "de": "benutzen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "作る",
+   "kana": "つくる",
+   "romaji": "tsukuru",
+   "de": "machen; herstellen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "働く",
+   "kana": "はたらく",
+   "romaji": "hataraku",
+   "de": "arbeiten",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "休む",
+   "kana": "やすむ",
+   "romaji": "yasumu",
+   "de": "ausruhen; fehlen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "起きる",
+   "kana": "おきる",
+   "romaji": "okiru",
+   "de": "aufstehen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "寝る",
+   "kana": "ねる",
+   "romaji": "neru",
+   "de": "schlafen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "歩く",
+   "kana": "あるく",
+   "romaji": "aruku",
+   "de": "zu Fuß gehen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "走る",
+   "kana": "はしる",
+   "romaji": "hashiru",
+   "de": "rennen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "入る",
+   "kana": "はいる",
+   "romaji": "hairu",
+   "de": "hineingehen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "出る",
+   "kana": "でる",
+   "romaji": "deru",
+   "de": "hinausgehen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "開ける",
+   "kana": "あける",
+   "romaji": "akeru",
+   "de": "öffnen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "閉める",
+   "kana": "しめる",
+   "romaji": "shimeru",
+   "de": "schließen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "教える",
+   "kana": "おしえる",
+   "romaji": "oshieru",
+   "de": "unterrichten; zeigen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "習う",
+   "kana": "ならう",
+   "romaji": "narau",
+   "de": "lernen (bei jemandem)",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "遊ぶ",
+   "kana": "あそぶ",
+   "romaji": "asobu",
+   "de": "spielen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "泳ぐ",
+   "kana": "およぐ",
+   "romaji": "oyogu",
+   "de": "schwimmen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "歌う",
+   "kana": "うたう",
+   "romaji": "utau",
+   "de": "singen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "立つ",
+   "kana": "たつ",
+   "romaji": "tatsu",
+   "de": "aufstehen; stehen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "座る",
+   "kana": "すわる",
+   "romaji": "suwaru",
+   "de": "sitzen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "持つ",
+   "kana": "もつ",
+   "romaji": "motsu",
+   "de": "halten; besitzen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "取る",
+   "kana": "とる",
+   "romaji": "toru",
+   "de": "nehmen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "呼ぶ",
+   "kana": "よぶ",
+   "romaji": "yobu",
+   "de": "rufen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "洗う",
+   "kana": "あらう",
+   "romaji": "arau",
+   "de": "waschen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "着る",
+   "kana": "きる",
+   "romaji": "kiru",
+   "de": "anziehen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "乗る",
+   "kana": "のる",
+   "romaji": "noru",
+   "de": "einsteigen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "降りる",
+   "kana": "おりる",
+   "romaji": "oriru",
+   "de": "aussteigen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "笑う",
+   "kana": "わらう",
+   "romaji": "warau",
+   "de": "lachen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "泣く",
+   "kana": "なく",
+   "romaji": "naku",
+   "de": "weinen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "忘れる",
+   "kana": "わすれる",
+   "romaji": "wasureru",
+   "de": "vergessen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "覚える",
+   "kana": "おぼえる",
+   "romaji": "oboeru",
+   "de": "sich merken",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "始める",
+   "kana": "はじめる",
+   "romaji": "hajimeru",
+   "de": "anfangen",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "終わる",
+   "kana": "おわる",
+   "romaji": "owaru",
+   "de": "enden",
+   "cat": "Verben"
+  },
+  {
+   "kanji": "大きい",
+   "kana": "おおきい",
+   "romaji": "ōkii",
+   "de": "groß",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "小さい",
+   "kana": "ちいさい",
+   "romaji": "chiisai",
+   "de": "klein",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "新しい",
+   "kana": "あたらしい",
+   "romaji": "atarashii",
+   "de": "neu",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "古い",
+   "kana": "ふるい",
+   "romaji": "furui",
+   "de": "alt (Sache)",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "高い",
+   "kana": "たかい",
+   "romaji": "takai",
+   "de": "hoch; teuer",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "安い",
+   "kana": "やすい",
+   "romaji": "yasui",
+   "de": "billig",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "長い",
+   "kana": "ながい",
+   "romaji": "nagai",
+   "de": "lang",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "短い",
+   "kana": "みじかい",
+   "romaji": "mijikai",
+   "de": "kurz",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "多い",
+   "kana": "おおい",
+   "romaji": "ōi",
+   "de": "viel",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "少ない",
+   "kana": "すくない",
+   "romaji": "sukunai",
+   "de": "wenig",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "早い",
+   "kana": "はやい",
+   "romaji": "hayai",
+   "de": "früh",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "速い",
+   "kana": "はやい",
+   "romaji": "hayai",
+   "de": "schnell",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "遅い",
+   "kana": "おそい",
+   "romaji": "osoi",
+   "de": "langsam; spät",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "暑い",
+   "kana": "あつい",
+   "romaji": "atsui",
+   "de": "heiß (Wetter)",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "寒い",
+   "kana": "さむい",
+   "romaji": "samui",
+   "de": "kalt (Wetter)",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "冷たい",
+   "kana": "つめたい",
+   "romaji": "tsumetai",
+   "de": "kalt (Berührung)",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "美味しい",
+   "kana": "おいしい",
+   "romaji": "oishii",
+   "de": "lecker",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "楽しい",
+   "kana": "たのしい",
+   "romaji": "tanoshii",
+   "de": "macht Spaß",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "忙しい",
+   "kana": "いそがしい",
+   "romaji": "isogashii",
+   "de": "beschäftigt",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "難しい",
+   "kana": "むずかしい",
+   "romaji": "muzukashii",
+   "de": "schwierig",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "簡単",
+   "kana": "かんたん",
+   "romaji": "kantan",
+   "de": "einfach",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "面白い",
+   "kana": "おもしろい",
+   "romaji": "omoshiroi",
+   "de": "interessant; lustig",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "白い",
+   "kana": "しろい",
+   "romaji": "shiroi",
+   "de": "weiß",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "黒い",
+   "kana": "くろい",
+   "romaji": "kuroi",
+   "de": "schwarz",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "赤い",
+   "kana": "あかい",
+   "romaji": "akai",
+   "de": "rot",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "青い",
+   "kana": "あおい",
+   "romaji": "aoi",
+   "de": "blau",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "強い",
+   "kana": "つよい",
+   "romaji": "tsuyoi",
+   "de": "stark",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "弱い",
+   "kana": "よわい",
+   "romaji": "yowai",
+   "de": "schwach",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "良い",
+   "kana": "いい",
+   "romaji": "ii",
+   "de": "gut",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "悪い",
+   "kana": "わるい",
+   "romaji": "warui",
+   "de": "schlecht",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "元気",
+   "kana": "げんき",
+   "romaji": "genki",
+   "de": "gesund; munter",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "大切",
+   "kana": "たいせつ",
+   "romaji": "taisetsu",
+   "de": "wichtig; wertvoll",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "有名",
+   "kana": "ゆうめい",
+   "romaji": "yūmei",
+   "de": "berühmt",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "便利",
+   "kana": "べんり",
+   "romaji": "benri",
+   "de": "praktisch",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "静か",
+   "kana": "しずか",
+   "romaji": "shizuka",
+   "de": "ruhig",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "賑やか",
+   "kana": "にぎやか",
+   "romaji": "nigiyaka",
+   "de": "lebhaft",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "好き",
+   "kana": "すき",
+   "romaji": "suki",
+   "de": "mögen",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "嫌い",
+   "kana": "きらい",
+   "romaji": "kirai",
+   "de": "nicht mögen",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "上手",
+   "kana": "じょうず",
+   "romaji": "jōzu",
+   "de": "gut in etwas",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "下手",
+   "kana": "へた",
+   "romaji": "heta",
+   "de": "schlecht in etwas",
+   "cat": "Adjektive"
+  },
+  {
+   "kanji": "一",
+   "kana": "いち",
+   "romaji": "ichi",
+   "de": "eins",
+   "cat": "Zahlen"
+  },
+  {
+   "kanji": "二",
+   "kana": "に",
+   "romaji": "ni",
+   "de": "zwei",
+   "cat": "Zahlen"
+  },
+  {
+   "kanji": "三",
+   "kana": "さん",
+   "romaji": "san",
+   "de": "drei",
+   "cat": "Zahlen"
+  },
+  {
+   "kanji": "四",
+   "kana": "よん",
+   "romaji": "yon",
+   "de": "vier",
+   "cat": "Zahlen"
+  },
+  {
+   "kanji": "五",
+   "kana": "ご",
+   "romaji": "go",
+   "de": "fünf",
+   "cat": "Zahlen"
+  },
+  {
+   "kanji": "六",
+   "kana": "ろく",
+   "romaji": "roku",
+   "de": "sechs",
+   "cat": "Zahlen"
+  },
+  {
+   "kanji": "七",
+   "kana": "なな",
+   "romaji": "nana",
+   "de": "sieben",
+   "cat": "Zahlen"
+  },
+  {
+   "kanji": "八",
+   "kana": "はち",
+   "romaji": "hachi",
+   "de": "acht",
+   "cat": "Zahlen"
+  },
+  {
+   "kanji": "九",
+   "kana": "きゅう",
+   "romaji": "kyū",
+   "de": "neun",
+   "cat": "Zahlen"
+  },
+  {
+   "kanji": "十",
+   "kana": "じゅう",
+   "romaji": "jū",
+   "de": "zehn",
+   "cat": "Zahlen"
+  },
+  {
+   "kanji": "百",
+   "kana": "ひゃく",
+   "romaji": "hyaku",
+   "de": "hundert",
+   "cat": "Zahlen"
+  },
+  {
+   "kanji": "千",
+   "kana": "せん",
+   "romaji": "sen",
+   "de": "tausend",
+   "cat": "Zahlen"
+  },
+  {
+   "kanji": "万",
+   "kana": "まん",
+   "romaji": "man",
+   "de": "zehntausend",
+   "cat": "Zahlen"
+  },
+  {
+   "kanji": "円",
+   "kana": "えん",
+   "romaji": "en",
+   "de": "Yen",
+   "cat": "Zahlen"
+  },
+  {
+   "kanji": "上",
+   "kana": "うえ",
+   "romaji": "ue",
+   "de": "oben",
+   "cat": "Richtung"
+  },
+  {
+   "kanji": "下",
+   "kana": "した",
+   "romaji": "shita",
+   "de": "unten",
+   "cat": "Richtung"
+  },
+  {
+   "kanji": "右",
+   "kana": "みぎ",
+   "romaji": "migi",
+   "de": "rechts",
+   "cat": "Richtung"
+  },
+  {
+   "kanji": "左",
+   "kana": "ひだり",
+   "romaji": "hidari",
+   "de": "links",
+   "cat": "Richtung"
+  },
+  {
+   "kanji": "中",
+   "kana": "なか",
+   "romaji": "naka",
+   "de": "Mitte; innen",
+   "cat": "Richtung"
+  },
+  {
+   "kanji": "外",
+   "kana": "そと",
+   "romaji": "soto",
+   "de": "draußen",
+   "cat": "Richtung"
+  },
+  {
+   "kanji": "前",
+   "kana": "まえ",
+   "romaji": "mae",
+   "de": "vorne; vor",
+   "cat": "Richtung"
+  },
+  {
+   "kanji": "後ろ",
+   "kana": "うしろ",
+   "romaji": "ushiro",
+   "de": "hinten",
+   "cat": "Richtung"
+  },
+  {
+   "kanji": "北",
+   "kana": "きた",
+   "romaji": "kita",
+   "de": "Norden",
+   "cat": "Richtung"
+  },
+  {
+   "kanji": "南",
+   "kana": "みなみ",
+   "romaji": "minami",
+   "de": "Süden",
+   "cat": "Richtung"
+  },
+  {
+   "kanji": "東",
+   "kana": "ひがし",
+   "romaji": "higashi",
+   "de": "Osten",
+   "cat": "Richtung"
+  },
+  {
+   "kanji": "西",
+   "kana": "にし",
+   "romaji": "nishi",
+   "de": "Westen",
+   "cat": "Richtung"
+  },
+  {
+   "kanji": "近く",
+   "kana": "ちかく",
+   "romaji": "chikaku",
+   "de": "Nähe",
+   "cat": "Richtung"
+  },
+  {
+   "kanji": "仕事",
+   "kana": "しごと",
+   "romaji": "shigoto",
+   "de": "Arbeit",
+   "cat": "Leben"
+  },
+  {
+   "kanji": "勉強",
+   "kana": "べんきょう",
+   "romaji": "benkyō",
+   "de": "Lernen",
+   "cat": "Leben"
+  },
+  {
+   "kanji": "休み",
+   "kana": "やすみ",
+   "romaji": "yasumi",
+   "de": "Pause; Urlaub",
+   "cat": "Leben"
+  },
+  {
+   "kanji": "言葉",
+   "kana": "ことば",
+   "romaji": "kotoba",
+   "de": "Wort; Sprache",
+   "cat": "Leben"
+  },
+  {
+   "kanji": "意味",
+   "kana": "いみ",
+   "romaji": "imi",
+   "de": "Bedeutung",
+   "cat": "Leben"
+  },
+  {
+   "kanji": "質問",
+   "kana": "しつもん",
+   "romaji": "shitsumon",
+   "de": "Frage",
+   "cat": "Leben"
+  },
+  {
+   "kanji": "答え",
+   "kana": "こたえ",
+   "romaji": "kotae",
+   "de": "Antwort",
+   "cat": "Leben"
+  },
+  {
+   "kanji": "問題",
+   "kana": "もんだい",
+   "romaji": "mondai",
+   "de": "Problem; Aufgabe",
+   "cat": "Leben"
+  },
+  {
+   "kanji": "番号",
+   "kana": "ばんごう",
+   "romaji": "bangō",
+   "de": "Nummer",
+   "cat": "Leben"
+  },
+  {
+   "kanji": "料理",
+   "kana": "りょうり",
+   "romaji": "ryōri",
+   "de": "Kochen; Gericht",
+   "cat": "Leben"
+  },
+  {
+   "kanji": "旅行",
+   "kana": "りょこう",
+   "romaji": "ryokō",
+   "de": "Reise",
+   "cat": "Leben"
+  },
+  {
+   "kanji": "買い物",
+   "kana": "かいもの",
+   "romaji": "kaimono",
+   "de": "Einkaufen",
+   "cat": "Leben"
+  },
+  {
+   "kanji": "約束",
+   "kana": "やくそく",
+   "romaji": "yakusoku",
+   "de": "Verabredung; Versprechen",
+   "cat": "Leben"
+  },
+  {
+   "kanji": "予定",
+   "kana": "よてい",
+   "romaji": "yotei",
+   "de": "Plan",
+   "cat": "Leben"
+  },
+  {
+   "kanji": "生活",
+   "kana": "せいかつ",
+   "romaji": "seikatsu",
+   "de": "Leben; Alltag",
+   "cat": "Leben"
+  },
+  {
+   "kanji": "気持ち",
+   "kana": "きもち",
+   "romaji": "kimochi",
+   "de": "Gefühl",
+   "cat": "Leben"
+  },
+  {
+   "kanji": "夢",
+   "kana": "ゆめ",
+   "romaji": "yume",
+   "de": "Traum",
+   "cat": "Leben"
+  },
+  {
+   "kanji": "愛",
+   "kana": "あい",
+   "romaji": "ai",
+   "de": "Liebe",
+   "cat": "Leben"
+  },
+  {
+   "kanji": "力",
+   "kana": "ちから",
+   "romaji": "chikara",
+   "de": "Kraft",
+   "cat": "Leben"
+  }
+ ]
+}

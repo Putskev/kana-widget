@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kana Widget</string>
+    <string name="widget_description">Zeigt abwechselnd Hiragana- und Katakana-Zeichen mit Lesung, Bedeutung und Beispielwort.</string>
+
+    <string name="settings_title">Kana Widget – Einstellungen</string>
+    <string name="settings_section_mode">Modus</string>
+    <string name="mode_hiragana">Hiragana</string>
+    <string name="mode_katakana">Katakana</string>
+    <string name="mode_both">Beide</string>
+    <string name="mode_kanji">Kanji-Wörter</string>
+    <string name="settings_section_order">Reihenfolge</string>
+    <string name="order_sequential">Der Reihe nach</string>
+    <string name="order_shuffled">Gemischt</string>
+    <string name="settings_section_interval">Intervall</string>
+    <string name="settings_toggle_dakuten">Dakuten/Handakuten einbeziehen (が, ぱ, …)</string>
+    <string name="settings_toggle_rare">Seltene Zeichen einbeziehen</string>
+    <string name="battery_optimization_hint">App von der Akku-Optimierung ausnehmen, damit der Wechsel pünktlich läuft.</string>
+    <string name="battery_optimization_button">Akku-Einstellungen öffnen</string>
+</resources>

@@ -1,0 +1,1717 @@
+{
+  "version": 1,
+  "language": "de",
+  "hiragana": [
+    {
+      "char": "あ",
+      "romaji": "a",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "あめ",
+        "romaji": "ame",
+        "de": "Regen"
+      },
+      "rare": false
+    },
+    {
+      "char": "い",
+      "romaji": "i",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "いぬ",
+        "romaji": "inu",
+        "de": "Hund"
+      },
+      "rare": false
+    },
+    {
+      "char": "う",
+      "romaji": "u",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "うみ",
+        "romaji": "umi",
+        "de": "Meer"
+      },
+      "rare": false
+    },
+    {
+      "char": "え",
+      "romaji": "e",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "えき",
+        "romaji": "eki",
+        "de": "Bahnhof"
+      },
+      "rare": false
+    },
+    {
+      "char": "お",
+      "romaji": "o",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "おちゃ",
+        "romaji": "ocha",
+        "de": "Tee"
+      },
+      "rare": false
+    },
+    {
+      "char": "か",
+      "romaji": "ka",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "かさ",
+        "romaji": "kasa",
+        "de": "Regenschirm"
+      },
+      "rare": false
+    },
+    {
+      "char": "き",
+      "romaji": "ki",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "きつね",
+        "romaji": "kitsune",
+        "de": "Fuchs"
+      },
+      "rare": false
+    },
+    {
+      "char": "く",
+      "romaji": "ku",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "くるま",
+        "romaji": "kuruma",
+        "de": "Auto"
+      },
+      "rare": false
+    },
+    {
+      "char": "け",
+      "romaji": "ke",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "けしき",
+        "romaji": "keshiki",
+        "de": "Aussicht"
+      },
+      "rare": false
+    },
+    {
+      "char": "こ",
+      "romaji": "ko",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "こえ",
+        "romaji": "koe",
+        "de": "Stimme"
+      },
+      "rare": false
+    },
+    {
+      "char": "さ",
+      "romaji": "sa",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "さかな",
+        "romaji": "sakana",
+        "de": "Fisch"
+      },
+      "rare": false
+    },
+    {
+      "char": "し",
+      "romaji": "shi",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "しお",
+        "romaji": "shio",
+        "de": "Salz"
+      },
+      "rare": false
+    },
+    {
+      "char": "す",
+      "romaji": "su",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "すし",
+        "romaji": "sushi",
+        "de": "Sushi"
+      },
+      "rare": false
+    },
+    {
+      "char": "せ",
+      "romaji": "se",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "せかい",
+        "romaji": "sekai",
+        "de": "Welt"
+      },
+      "rare": false
+    },
+    {
+      "char": "そ",
+      "romaji": "so",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "そら",
+        "romaji": "sora",
+        "de": "Himmel"
+      },
+      "rare": false
+    },
+    {
+      "char": "た",
+      "romaji": "ta",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "たまご",
+        "romaji": "tamago",
+        "de": "Ei"
+      },
+      "rare": false
+    },
+    {
+      "char": "ち",
+      "romaji": "chi",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "ちず",
+        "romaji": "chizu",
+        "de": "Landkarte"
+      },
+      "rare": false
+    },
+    {
+      "char": "つ",
+      "romaji": "tsu",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "つき",
+        "romaji": "tsuki",
+        "de": "Mond"
+      },
+      "rare": false
+    },
+    {
+      "char": "て",
+      "romaji": "te",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "てがみ",
+        "romaji": "tegami",
+        "de": "Brief"
+      },
+      "rare": false
+    },
+    {
+      "char": "と",
+      "romaji": "to",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "とり",
+        "romaji": "tori",
+        "de": "Vogel"
+      },
+      "rare": false
+    },
+    {
+      "char": "な",
+      "romaji": "na",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "なつ",
+        "romaji": "natsu",
+        "de": "Sommer"
+      },
+      "rare": false
+    },
+    {
+      "char": "に",
+      "romaji": "ni",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "にく",
+        "romaji": "niku",
+        "de": "Fleisch"
+      },
+      "rare": false
+    },
+    {
+      "char": "ぬ",
+      "romaji": "nu",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "ぬの",
+        "romaji": "nuno",
+        "de": "Stoff"
+      },
+      "rare": false
+    },
+    {
+      "char": "ね",
+      "romaji": "ne",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "ねこ",
+        "romaji": "neko",
+        "de": "Katze"
+      },
+      "rare": false
+    },
+    {
+      "char": "の",
+      "romaji": "no",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "のり",
+        "romaji": "nori",
+        "de": "Seetang"
+      },
+      "rare": false
+    },
+    {
+      "char": "は",
+      "romaji": "ha",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "はな",
+        "romaji": "hana",
+        "de": "Blume"
+      },
+      "rare": false,
+      "note": "Als Partikel wird は „wa“ gesprochen (Themenpartikel)."
+    },
+    {
+      "char": "ひ",
+      "romaji": "hi",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "ひと",
+        "romaji": "hito",
+        "de": "Mensch"
+      },
+      "rare": false
+    },
+    {
+      "char": "ふ",
+      "romaji": "fu",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "ふゆ",
+        "romaji": "fuyu",
+        "de": "Winter"
+      },
+      "rare": false
+    },
+    {
+      "char": "へ",
+      "romaji": "he",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "へや",
+        "romaji": "heya",
+        "de": "Zimmer"
+      },
+      "rare": false,
+      "note": "Als Partikel wird へ „e“ gesprochen (Richtung)."
+    },
+    {
+      "char": "ほ",
+      "romaji": "ho",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "ほし",
+        "romaji": "hoshi",
+        "de": "Stern"
+      },
+      "rare": false
+    },
+    {
+      "char": "ま",
+      "romaji": "ma",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "まど",
+        "romaji": "mado",
+        "de": "Fenster"
+      },
+      "rare": false
+    },
+    {
+      "char": "み",
+      "romaji": "mi",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "みず",
+        "romaji": "mizu",
+        "de": "Wasser"
+      },
+      "rare": false
+    },
+    {
+      "char": "む",
+      "romaji": "mu",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "むし",
+        "romaji": "mushi",
+        "de": "Insekt"
+      },
+      "rare": false
+    },
+    {
+      "char": "め",
+      "romaji": "me",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "めがね",
+        "romaji": "megane",
+        "de": "Brille"
+      },
+      "rare": false
+    },
+    {
+      "char": "も",
+      "romaji": "mo",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "もり",
+        "romaji": "mori",
+        "de": "Wald"
+      },
+      "rare": false
+    },
+    {
+      "char": "や",
+      "romaji": "ya",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "やま",
+        "romaji": "yama",
+        "de": "Berg"
+      },
+      "rare": false
+    },
+    {
+      "char": "ゆ",
+      "romaji": "yu",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "ゆき",
+        "romaji": "yuki",
+        "de": "Schnee"
+      },
+      "rare": false
+    },
+    {
+      "char": "よ",
+      "romaji": "yo",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "よる",
+        "romaji": "yoru",
+        "de": "Nacht"
+      },
+      "rare": false
+    },
+    {
+      "char": "ら",
+      "romaji": "ra",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "らいねん",
+        "romaji": "rainen",
+        "de": "nächstes Jahr"
+      },
+      "rare": false
+    },
+    {
+      "char": "り",
+      "romaji": "ri",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "りんご",
+        "romaji": "ringo",
+        "de": "Apfel"
+      },
+      "rare": false
+    },
+    {
+      "char": "る",
+      "romaji": "ru",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "るす",
+        "romaji": "rusu",
+        "de": "nicht zu Hause"
+      },
+      "rare": false
+    },
+    {
+      "char": "れ",
+      "romaji": "re",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "れきし",
+        "romaji": "rekishi",
+        "de": "Geschichte"
+      },
+      "rare": false
+    },
+    {
+      "char": "ろ",
+      "romaji": "ro",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "ろうそく",
+        "romaji": "rōsoku",
+        "de": "Kerze"
+      },
+      "rare": false
+    },
+    {
+      "char": "わ",
+      "romaji": "wa",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "わたし",
+        "romaji": "watashi",
+        "de": "ich"
+      },
+      "rare": false
+    },
+    {
+      "char": "を",
+      "romaji": "o",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "ほんをよむ",
+        "romaji": "hon o yomu",
+        "de": "ein Buch lesen"
+      },
+      "rare": false,
+      "note": "Partikel für das Objekt, gesprochen „o“."
+    },
+    {
+      "char": "ん",
+      "romaji": "n",
+      "script": "Hiragana",
+      "kind": "basic",
+      "word": {
+        "jp": "ほん",
+        "romaji": "hon",
+        "de": "Buch"
+      },
+      "rare": false
+    },
+    {
+      "char": "が",
+      "romaji": "ga",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "がっこう",
+        "romaji": "gakkō",
+        "de": "Schule"
+      },
+      "rare": false
+    },
+    {
+      "char": "ぎ",
+      "romaji": "gi",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ぎんこう",
+        "romaji": "ginkō",
+        "de": "Bank"
+      },
+      "rare": false
+    },
+    {
+      "char": "ぐ",
+      "romaji": "gu",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ぐあい",
+        "romaji": "guai",
+        "de": "Zustand"
+      },
+      "rare": false
+    },
+    {
+      "char": "げ",
+      "romaji": "ge",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "げんき",
+        "romaji": "genki",
+        "de": "gesund; munter"
+      },
+      "rare": false
+    },
+    {
+      "char": "ご",
+      "romaji": "go",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ごはん",
+        "romaji": "gohan",
+        "de": "Reis; Essen"
+      },
+      "rare": false
+    },
+    {
+      "char": "ざ",
+      "romaji": "za",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ざっし",
+        "romaji": "zasshi",
+        "de": "Zeitschrift"
+      },
+      "rare": false
+    },
+    {
+      "char": "じ",
+      "romaji": "ji",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "じかん",
+        "romaji": "jikan",
+        "de": "Zeit"
+      },
+      "rare": false
+    },
+    {
+      "char": "ず",
+      "romaji": "zu",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ずっと",
+        "romaji": "zutto",
+        "de": "die ganze Zeit"
+      },
+      "rare": false
+    },
+    {
+      "char": "ぜ",
+      "romaji": "ze",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ぜんぶ",
+        "romaji": "zenbu",
+        "de": "alles"
+      },
+      "rare": false
+    },
+    {
+      "char": "ぞ",
+      "romaji": "zo",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ぞう",
+        "romaji": "zō",
+        "de": "Elefant"
+      },
+      "rare": false
+    },
+    {
+      "char": "だ",
+      "romaji": "da",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "だいがく",
+        "romaji": "daigaku",
+        "de": "Universität"
+      },
+      "rare": false
+    },
+    {
+      "char": "ぢ",
+      "romaji": "ji",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "はなぢ",
+        "romaji": "hanaji",
+        "de": "Nasenbluten"
+      },
+      "rare": true,
+      "note": "Selten; klingt wie じ."
+    },
+    {
+      "char": "づ",
+      "romaji": "zu",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "つづく",
+        "romaji": "tsuzuku",
+        "de": "weitergehen; andauern"
+      },
+      "rare": true,
+      "note": "Selten; klingt wie ず."
+    },
+    {
+      "char": "で",
+      "romaji": "de",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "でんしゃ",
+        "romaji": "densha",
+        "de": "Zug"
+      },
+      "rare": false
+    },
+    {
+      "char": "ど",
+      "romaji": "do",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "どうぶつ",
+        "romaji": "dōbutsu",
+        "de": "Tier"
+      },
+      "rare": false
+    },
+    {
+      "char": "ば",
+      "romaji": "ba",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ばしょ",
+        "romaji": "basho",
+        "de": "Ort"
+      },
+      "rare": false
+    },
+    {
+      "char": "び",
+      "romaji": "bi",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "びょういん",
+        "romaji": "byōin",
+        "de": "Krankenhaus"
+      },
+      "rare": false
+    },
+    {
+      "char": "ぶ",
+      "romaji": "bu",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ぶた",
+        "romaji": "buta",
+        "de": "Schwein"
+      },
+      "rare": false
+    },
+    {
+      "char": "べ",
+      "romaji": "be",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "べんきょう",
+        "romaji": "benkyō",
+        "de": "Lernen"
+      },
+      "rare": false
+    },
+    {
+      "char": "ぼ",
+      "romaji": "bo",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ぼうし",
+        "romaji": "bōshi",
+        "de": "Mütze"
+      },
+      "rare": false
+    },
+    {
+      "char": "ぱ",
+      "romaji": "pa",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "しんぱい",
+        "romaji": "shinpai",
+        "de": "Sorge"
+      },
+      "rare": false
+    },
+    {
+      "char": "ぴ",
+      "romaji": "pi",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "えんぴつ",
+        "romaji": "enpitsu",
+        "de": "Bleistift"
+      },
+      "rare": false
+    },
+    {
+      "char": "ぷ",
+      "romaji": "pu",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "てんぷら",
+        "romaji": "tenpura",
+        "de": "Tempura"
+      },
+      "rare": false
+    },
+    {
+      "char": "ぺ",
+      "romaji": "pe",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ぺらぺら",
+        "romaji": "perapera",
+        "de": "fließend (sprechen)"
+      },
+      "rare": false
+    },
+    {
+      "char": "ぽ",
+      "romaji": "po",
+      "script": "Hiragana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "さんぽ",
+        "romaji": "sanpo",
+        "de": "Spaziergang"
+      },
+      "rare": false
+    }
+  ],
+  "katakana": [
+    {
+      "char": "ア",
+      "romaji": "a",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "アイス",
+        "romaji": "aisu",
+        "de": "Eis"
+      },
+      "rare": false
+    },
+    {
+      "char": "イ",
+      "romaji": "i",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "インク",
+        "romaji": "inku",
+        "de": "Tinte"
+      },
+      "rare": false
+    },
+    {
+      "char": "ウ",
+      "romaji": "u",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ウール",
+        "romaji": "ūru",
+        "de": "Wolle"
+      },
+      "rare": false
+    },
+    {
+      "char": "エ",
+      "romaji": "e",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "エアコン",
+        "romaji": "eakon",
+        "de": "Klimaanlage"
+      },
+      "rare": false
+    },
+    {
+      "char": "オ",
+      "romaji": "o",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "オレンジ",
+        "romaji": "orenji",
+        "de": "Orange"
+      },
+      "rare": false
+    },
+    {
+      "char": "カ",
+      "romaji": "ka",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "カメラ",
+        "romaji": "kamera",
+        "de": "Kamera"
+      },
+      "rare": false
+    },
+    {
+      "char": "キ",
+      "romaji": "ki",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "キウイ",
+        "romaji": "kiui",
+        "de": "Kiwi"
+      },
+      "rare": false
+    },
+    {
+      "char": "ク",
+      "romaji": "ku",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "クラス",
+        "romaji": "kurasu",
+        "de": "Klasse"
+      },
+      "rare": false
+    },
+    {
+      "char": "ケ",
+      "romaji": "ke",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ケーキ",
+        "romaji": "kēki",
+        "de": "Kuchen"
+      },
+      "rare": false
+    },
+    {
+      "char": "コ",
+      "romaji": "ko",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "コーヒー",
+        "romaji": "kōhī",
+        "de": "Kaffee"
+      },
+      "rare": false
+    },
+    {
+      "char": "サ",
+      "romaji": "sa",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "サラダ",
+        "romaji": "sarada",
+        "de": "Salat"
+      },
+      "rare": false
+    },
+    {
+      "char": "シ",
+      "romaji": "shi",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "シャツ",
+        "romaji": "shatsu",
+        "de": "Hemd"
+      },
+      "rare": false,
+      "note": "Nicht verwechseln mit ツ (tsu): シ liegt eher waagerecht."
+    },
+    {
+      "char": "ス",
+      "romaji": "su",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "スープ",
+        "romaji": "sūpu",
+        "de": "Suppe"
+      },
+      "rare": false
+    },
+    {
+      "char": "セ",
+      "romaji": "se",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "セーター",
+        "romaji": "sētā",
+        "de": "Pullover"
+      },
+      "rare": false
+    },
+    {
+      "char": "ソ",
+      "romaji": "so",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ソファ",
+        "romaji": "sofa",
+        "de": "Sofa"
+      },
+      "rare": false,
+      "note": "Nicht verwechseln mit ン (n): ソ steht eher senkrecht."
+    },
+    {
+      "char": "タ",
+      "romaji": "ta",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "タクシー",
+        "romaji": "takushī",
+        "de": "Taxi"
+      },
+      "rare": false
+    },
+    {
+      "char": "チ",
+      "romaji": "chi",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "チーズ",
+        "romaji": "chīzu",
+        "de": "Käse"
+      },
+      "rare": false
+    },
+    {
+      "char": "ツ",
+      "romaji": "tsu",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ツアー",
+        "romaji": "tsuā",
+        "de": "Tour"
+      },
+      "rare": false,
+      "note": "Nicht verwechseln mit シ (shi): ツ fällt eher senkrecht."
+    },
+    {
+      "char": "テ",
+      "romaji": "te",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "テレビ",
+        "romaji": "terebi",
+        "de": "Fernseher"
+      },
+      "rare": false
+    },
+    {
+      "char": "ト",
+      "romaji": "to",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "トマト",
+        "romaji": "tomato",
+        "de": "Tomate"
+      },
+      "rare": false
+    },
+    {
+      "char": "ナ",
+      "romaji": "na",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ナイフ",
+        "romaji": "naifu",
+        "de": "Messer"
+      },
+      "rare": false
+    },
+    {
+      "char": "ニ",
+      "romaji": "ni",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ニュース",
+        "romaji": "nyūsu",
+        "de": "Nachrichten"
+      },
+      "rare": false
+    },
+    {
+      "char": "ヌ",
+      "romaji": "nu",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ヌードル",
+        "romaji": "nūdoru",
+        "de": "Nudeln"
+      },
+      "rare": false
+    },
+    {
+      "char": "ネ",
+      "romaji": "ne",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ネクタイ",
+        "romaji": "nekutai",
+        "de": "Krawatte"
+      },
+      "rare": false
+    },
+    {
+      "char": "ノ",
+      "romaji": "no",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ノート",
+        "romaji": "nōto",
+        "de": "Heft"
+      },
+      "rare": false
+    },
+    {
+      "char": "ハ",
+      "romaji": "ha",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ハム",
+        "romaji": "hamu",
+        "de": "Schinken"
+      },
+      "rare": false
+    },
+    {
+      "char": "ヒ",
+      "romaji": "hi",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ヒーター",
+        "romaji": "hītā",
+        "de": "Heizung"
+      },
+      "rare": false
+    },
+    {
+      "char": "フ",
+      "romaji": "fu",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "フォーク",
+        "romaji": "fōku",
+        "de": "Gabel"
+      },
+      "rare": false
+    },
+    {
+      "char": "ヘ",
+      "romaji": "he",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ヘリコプター",
+        "romaji": "herikoputā",
+        "de": "Hubschrauber"
+      },
+      "rare": false
+    },
+    {
+      "char": "ホ",
+      "romaji": "ho",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ホテル",
+        "romaji": "hoteru",
+        "de": "Hotel"
+      },
+      "rare": false
+    },
+    {
+      "char": "マ",
+      "romaji": "ma",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "マスク",
+        "romaji": "masuku",
+        "de": "Maske"
+      },
+      "rare": false
+    },
+    {
+      "char": "ミ",
+      "romaji": "mi",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ミルク",
+        "romaji": "miruku",
+        "de": "Milch"
+      },
+      "rare": false
+    },
+    {
+      "char": "ム",
+      "romaji": "mu",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ムービー",
+        "romaji": "mūbī",
+        "de": "Film"
+      },
+      "rare": false
+    },
+    {
+      "char": "メ",
+      "romaji": "me",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "メール",
+        "romaji": "mēru",
+        "de": "E-Mail"
+      },
+      "rare": false
+    },
+    {
+      "char": "モ",
+      "romaji": "mo",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "モデル",
+        "romaji": "moderu",
+        "de": "Modell"
+      },
+      "rare": false
+    },
+    {
+      "char": "ヤ",
+      "romaji": "ya",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "タイヤ",
+        "romaji": "taiya",
+        "de": "Reifen"
+      },
+      "rare": false
+    },
+    {
+      "char": "ユ",
+      "romaji": "yu",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ユーザー",
+        "romaji": "yūzā",
+        "de": "Nutzer"
+      },
+      "rare": false
+    },
+    {
+      "char": "ヨ",
+      "romaji": "yo",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ヨーグルト",
+        "romaji": "yōguruto",
+        "de": "Joghurt"
+      },
+      "rare": false
+    },
+    {
+      "char": "ラ",
+      "romaji": "ra",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ラーメン",
+        "romaji": "rāmen",
+        "de": "Ramen"
+      },
+      "rare": false
+    },
+    {
+      "char": "リ",
+      "romaji": "ri",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "リンク",
+        "romaji": "rinku",
+        "de": "Link"
+      },
+      "rare": false
+    },
+    {
+      "char": "ル",
+      "romaji": "ru",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ルール",
+        "romaji": "rūru",
+        "de": "Regel"
+      },
+      "rare": false
+    },
+    {
+      "char": "レ",
+      "romaji": "re",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "レモン",
+        "romaji": "remon",
+        "de": "Zitrone"
+      },
+      "rare": false
+    },
+    {
+      "char": "ロ",
+      "romaji": "ro",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ロボット",
+        "romaji": "robotto",
+        "de": "Roboter"
+      },
+      "rare": false
+    },
+    {
+      "char": "ワ",
+      "romaji": "wa",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ワイン",
+        "romaji": "wain",
+        "de": "Wein"
+      },
+      "rare": false
+    },
+    {
+      "char": "ヲ",
+      "romaji": "o",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "ヲタク",
+        "romaji": "wotaku",
+        "de": "Otaku (Schreibvariante)"
+      },
+      "rare": true,
+      "note": "Sehr selten; fast nur in Sonderfällen."
+    },
+    {
+      "char": "ン",
+      "romaji": "n",
+      "script": "Katakana",
+      "kind": "basic",
+      "word": {
+        "jp": "パン",
+        "romaji": "pan",
+        "de": "Brot"
+      },
+      "rare": false,
+      "note": "Nicht verwechseln mit ソ (so): ン liegt eher waagerecht."
+    },
+    {
+      "char": "ガ",
+      "romaji": "ga",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ガス",
+        "romaji": "gasu",
+        "de": "Gas"
+      },
+      "rare": false
+    },
+    {
+      "char": "ギ",
+      "romaji": "gi",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ギター",
+        "romaji": "gitā",
+        "de": "Gitarre"
+      },
+      "rare": false
+    },
+    {
+      "char": "グ",
+      "romaji": "gu",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "グラス",
+        "romaji": "gurasu",
+        "de": "Glas"
+      },
+      "rare": false
+    },
+    {
+      "char": "ゲ",
+      "romaji": "ge",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ゲーム",
+        "romaji": "gēmu",
+        "de": "Spiel"
+      },
+      "rare": false
+    },
+    {
+      "char": "ゴ",
+      "romaji": "go",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ゴルフ",
+        "romaji": "gorufu",
+        "de": "Golf"
+      },
+      "rare": false
+    },
+    {
+      "char": "ザ",
+      "romaji": "za",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ピザ",
+        "romaji": "piza",
+        "de": "Pizza"
+      },
+      "rare": false
+    },
+    {
+      "char": "ジ",
+      "romaji": "ji",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ジュース",
+        "romaji": "jūsu",
+        "de": "Saft"
+      },
+      "rare": false
+    },
+    {
+      "char": "ズ",
+      "romaji": "zu",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ズボン",
+        "romaji": "zubon",
+        "de": "Hose"
+      },
+      "rare": false
+    },
+    {
+      "char": "ゼ",
+      "romaji": "ze",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ゼロ",
+        "romaji": "zero",
+        "de": "Null"
+      },
+      "rare": false
+    },
+    {
+      "char": "ゾ",
+      "romaji": "zo",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ゾーン",
+        "romaji": "zōn",
+        "de": "Zone"
+      },
+      "rare": false
+    },
+    {
+      "char": "ダ",
+      "romaji": "da",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ダンス",
+        "romaji": "dansu",
+        "de": "Tanz"
+      },
+      "rare": false
+    },
+    {
+      "char": "ヂ",
+      "romaji": "ji",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": null,
+      "rare": true,
+      "note": "Sehr selten; klingt wie ジ."
+    },
+    {
+      "char": "ヅ",
+      "romaji": "zu",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": null,
+      "rare": true,
+      "note": "Sehr selten; klingt wie ズ."
+    },
+    {
+      "char": "デ",
+      "romaji": "de",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "デザイン",
+        "romaji": "dezain",
+        "de": "Design"
+      },
+      "rare": false
+    },
+    {
+      "char": "ド",
+      "romaji": "do",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ドア",
+        "romaji": "doa",
+        "de": "Tür"
+      },
+      "rare": false
+    },
+    {
+      "char": "バ",
+      "romaji": "ba",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "バス",
+        "romaji": "basu",
+        "de": "Bus"
+      },
+      "rare": false
+    },
+    {
+      "char": "ビ",
+      "romaji": "bi",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ビール",
+        "romaji": "bīru",
+        "de": "Bier"
+      },
+      "rare": false
+    },
+    {
+      "char": "ブ",
+      "romaji": "bu",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ブラシ",
+        "romaji": "burashi",
+        "de": "Bürste"
+      },
+      "rare": false
+    },
+    {
+      "char": "ベ",
+      "romaji": "be",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ベッド",
+        "romaji": "beddo",
+        "de": "Bett"
+      },
+      "rare": false
+    },
+    {
+      "char": "ボ",
+      "romaji": "bo",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ボール",
+        "romaji": "bōru",
+        "de": "Ball"
+      },
+      "rare": false
+    },
+    {
+      "char": "パ",
+      "romaji": "pa",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "パーティー",
+        "romaji": "pātī",
+        "de": "Party"
+      },
+      "rare": false
+    },
+    {
+      "char": "ピ",
+      "romaji": "pi",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ピアノ",
+        "romaji": "piano",
+        "de": "Klavier"
+      },
+      "rare": false
+    },
+    {
+      "char": "プ",
+      "romaji": "pu",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "プール",
+        "romaji": "pūru",
+        "de": "Pool"
+      },
+      "rare": false
+    },
+    {
+      "char": "ペ",
+      "romaji": "pe",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ペン",
+        "romaji": "pen",
+        "de": "Stift"
+      },
+      "rare": false
+    },
+    {
+      "char": "ポ",
+      "romaji": "po",
+      "script": "Katakana",
+      "kind": "dakuten",
+      "word": {
+        "jp": "ポスト",
+        "romaji": "posuto",
+        "de": "Briefkasten"
+      },
+      "rare": false
+    }
+  ],
+  "kanji": []
+}
